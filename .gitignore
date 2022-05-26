@@ -1,0 +1,14 @@
+# Node modules
+node_modules
+package-lock.json
+
+
+# Environment variables, never commit this file
+.env
+
+# VSCode & Webstorm history directories
+.history
+.idea
+
+# Log folder
+log
